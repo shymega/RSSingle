@@ -4,4 +4,4 @@ listparser==0.20
 lxml==5.3.0
 python-dateutil==2.9.0.post0
 pyyaml==6.0.2
-pyinstaller==6.11.1
+pyinstaller==6.12.0
