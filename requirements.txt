@@ -1,5 +1,5 @@
 feedgen==1.0.0
-feedparser==6.0.12
+feedparser==6.0.14
 listparser==0.20
 lxml==6.1.1
 python-dateutil==2.9.0.post0
