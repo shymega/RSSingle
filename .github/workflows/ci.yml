@@ -55,3 +55,5 @@ jobs:
       - name: Build RSSingle (macOS)
         if: ${{ matrix.runner == 'macos-latest' }}
         run: pyinstaller --windowed ./rssingle.py
+      - name: List artifacts for finishing this action
+        run: find ./dist/
