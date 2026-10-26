@@ -2,6 +2,6 @@ feedgen==1.0.0
 feedparser==6.0.14
 listparser==0.20
 lxml==6.1.3
-python-dateutil==2.9.0.post0
+python-dateutil==3.0.0
 pyyaml==6.0.3
 pyinstaller==6.22.3
